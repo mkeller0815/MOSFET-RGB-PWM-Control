@@ -1,4 +1,4 @@
-update=Sonntag, 22. November 2015 08:54:06
+update=Mittwoch, 25. November 2015 20:20:59
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/Users/mario/Projekte/Elektronik/KiCad/Libraries/Arduino/library/arduino_shields
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

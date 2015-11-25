@@ -26,3 +26,17 @@ The board uses 3 IRLIZ44N N-channel MOSFETs to drive up to 55V and 3A an 3 chann
 http://www.irf.com/product-info/datasheets/data/irliz44n.pdf
 
 The gate of the MOSFET is pulled down to GND by a 10k resistor. 
+
+The board is single sided and uses through-hole parts only. The clearance and the width of the traces support easy etching of the board even at home.
+All holes are at least 0.9mm in diameter for simple drilling
+
+## 5.0 Files
+
+	* LICENSE - the license file
+	* Platine - directory containing the KiCad schema and layout files
+	* README.md - this readme file
+	* Schematic.pdf - the schema as PDF
+	* pcb_backside_mirrored.pdf - the copper part of the board (mirrored) for etching
+	* Euro-format-160x100-10pcs_mirrored.pdf - 10 pieces of the board on a single EuroBoard format	
+	* pcb_layout.png - the layout of the board with detailed information
+

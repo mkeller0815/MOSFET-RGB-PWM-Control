@@ -1,0 +1,123 @@
+Cmp-Mod V01 Created by PcbNew   date = Dienstag, 24. November 2015 21:13:04
+
+BeginCmp
+TimeStamp = 5651F72E
+Path = /5651777A
+Reference = P1;
+ValeurCmp = 12V Power;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 565EE441
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 565EE43C
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 565EE430
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 565B81DC
+Path = 
+Reference = REF**;
+ValeurCmp = GND_bridge;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F736
+Path = /5651ED98
+Reference = P2;
+ValeurCmp = Control;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F73E
+Path = /565178B8
+Reference = P3;
+ValeurCmp = RGB Stripe;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F745
+Path = /565176EE
+Reference = Q1;
+ValeurCmp = IRF540N;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F74C
+Path = /56517732
+Reference = Q2;
+ValeurCmp = IRF540N;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F753
+Path = /56517750
+Reference = Q3;
+ValeurCmp = IRF540N;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F759
+Path = /56517B2E
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F75F
+Path = /56517B6C
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5651F765
+Path = /56517B99
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 565B81CD
+Path = 
+Reference = REF**;
+ValeurCmp = GND_bridge;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 565EE42E
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+EndListe

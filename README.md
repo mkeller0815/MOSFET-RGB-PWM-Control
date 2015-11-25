@@ -7,7 +7,7 @@ A small controllerboard that can be used by microcrontrollers to control bigger 
 
 ## 2.0 Layout
 
-https://github.com/mkeller0815/MOSFET-RGB-PWM-Control/raw/master/pcb_layout.png
+![Layout] (https://github.com/mkeller0815/MOSFET-RGB-PWM-Control/raw/master/pcb_layout.png)
 
 ## 3.0 Usage
 
